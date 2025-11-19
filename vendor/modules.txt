@@ -134,6 +134,8 @@ github.com/docker/distribution/registry/storage/cache
 github.com/docker/distribution/registry/storage/cache/memory
 # github.com/docker/docker v28.5.1+incompatible
 ## explicit
+# github.com/docker/docker v28.5.2+incompatible
+## explicit
 github.com/docker/docker/api
 github.com/docker/docker/api/types
 github.com/docker/docker/api/types/blkiodev
